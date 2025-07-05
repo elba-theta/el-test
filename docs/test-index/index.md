@@ -1,6 +1,7 @@
 ---
 title: Some Jekyll Markdown Guidelines
 nav_order: 2
+has_children: true
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
